@@ -28,6 +28,7 @@ body {
   gap: 1.25em;
 }
 .container .search-wrapper input {
+  background-color: whitesmoke;
   font-size: 1em;
   padding: 0.62em;
   border: none;
@@ -62,9 +63,6 @@ body {
 }
 .container h3 {
   text-align: center;
-  font-size: 1.2em;
-  font-weight: 400;
-  color: #ff465a;
 }
 .container h4 {
   display: inline;
@@ -72,8 +70,7 @@ body {
   color: #222a43;
 }
 .container .data-wrapper {
-  margin-bottom: 1em;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.1px;
 }
 .container span {
   color: #5d6274;

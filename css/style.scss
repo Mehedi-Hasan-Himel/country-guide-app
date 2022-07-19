@@ -25,6 +25,7 @@ body{
       grid-template-columns: 9fr 3fr;
       gap: 1.25em;
       input {
+         background-color: whitesmoke ;
          font-size: 1em;
          padding: 00.62em;
          border: none;
@@ -67,8 +68,8 @@ body{
       color: #222a43;
      }
      .data-wrapper{
-      margin-bottom: 1em;
-      letter-spacing: 0.3px;
+      // margin-bottom: 1em;
+      letter-spacing: 0.1px;
      }
      span{
       color: #5d6274;

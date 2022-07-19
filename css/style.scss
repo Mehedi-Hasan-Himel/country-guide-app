@@ -10,7 +10,7 @@ body{
    background-color: #3d64e6;
 }
 .container{
-   background-color: #fff;
+   background-color: whitesmoke;
    width: 80vw;
    min-width: 37.5em;
    padding: 3em 2.5em;
@@ -35,7 +35,7 @@ body{
       button {
          font-size: 1em;
          background-color: #3d64e6;
-         color: #ffffff;
+         color: whitesmoke;
          padding: 0.8em0;
          border: none;
          border-radius: 1.5em;
@@ -49,6 +49,29 @@ body{
      }
      #result{
       margin-top: 1.25em;
+     }
+     h2{
+      font-weight: 600;
+      color: #222a43;
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 1.8em;
+     }
+     h3{
+      text-align: center;
+     }
+     h4{
+      display: inline;
+      font-weight: 400;
+      color: #222a43;
+     }
+     .data-wrapper{
+      margin-bottom: 1em;
+      letter-spacing: 0.3px;
+     }
+     span{
+      color: #5d6274;
      }
    }
 

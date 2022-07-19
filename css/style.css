@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-  background-color: #fff;
+  background-color: whitesmoke;
   width: 80vw;
   min-width: 37.5em;
   padding: 3em 2.5em;
@@ -38,7 +38,7 @@ body {
 .container .search-wrapper button {
   font-size: 1em;
   background-color: #3d64e6;
-  color: #ffffff;
+  color: whitesmoke;
   padding: 0.8em0;
   border: none;
   border-radius: 1.5em;
@@ -51,4 +51,30 @@ body {
 }
 .container #result {
   margin-top: 1.25em;
+}
+.container h2 {
+  font-weight: 600;
+  color: #222a43;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 1.8em;
+}
+.container h3 {
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: 400;
+  color: #ff465a;
+}
+.container h4 {
+  display: inline;
+  font-weight: 400;
+  color: #222a43;
+}
+.container .data-wrapper {
+  margin-bottom: 1em;
+  letter-spacing: 0.3px;
+}
+.container span {
+  color: #5d6274;
 }/*# sourceMappingURL=style.css.map */

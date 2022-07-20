@@ -11,8 +11,8 @@ body{
 }
 .container{
    background-color: whitesmoke;
-   width: 80vw;
-   min-width: 37.5em;
+   max-width: 80vw;
+   min-width: 50vw;
    padding: 3em 2.5em;
    position: absolute;
    transform: translate(-50%, -50%);
@@ -68,7 +68,7 @@ body{
       color: #222a43;
      }
      .data-wrapper{
-      // margin-bottom: 1em;
+      margin-bottom: .3em;
       letter-spacing: 0.1px;
      }
      span{
